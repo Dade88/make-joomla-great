@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joomla Checks de Calidad</string>
+    <string name="installation">Instalación</string>
+    <string name="general">General</string>
+    <string name="security">Seguridad Básica</string>
+    <string name="security_adv">Seguridad Avanzada</string>
+    <string name="seo">Optimización para Motores de Búsqueda (SEO)</string>
+    <string name="cache">Caché de Joomla</string>
+    <string name="security_1">Borra cualquier extensión innecesaria</string>
+    <string name="security_2">Instala una extensión para copias de seguridad</string>
+    <string name="security_3">Contraseñas fuertes en usuarios administradores</string>
+    <string name="security_4">Bloquea el acceso al panel de administración</string>
+    <string name="security_5">Configuration.php, permisos 644 o 444</string>
+    <string name="security_6">Quitar comentarios de las extensiones</string>
+    <string name="security_7">Cambiar la dirección de los directorios /tmp y /log</string>
+    <string name="security_8">Borra cualquier extensión innecesaria</string>
+    <string name="security_9">Borra cualquier extensión innecesaria</string>
+    <string name="security_10">Borra cualquier extensión innecesaria</string>
+</resources>

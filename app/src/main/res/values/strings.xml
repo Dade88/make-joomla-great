@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Joomla Quality Checks</string>
+    <string name="installation">Installation</string>
+    <string name="general">General</string>
+    <string name="security">Basic Security</string>
+    <string name="security_adv">Advanced Security</string>
+    <string name="seo">Search Engine Optimization</string>
+    <string name="cache">Joomla Cache</string>
+    <string name="security_1">Delete unnecessary extensions</string>
+    <string name="security_2">Install your preferred backups extension</string>
+    <string name="security_3">Strong passwords for backend users</string>
+    <string name="security_4">Block access to backend</string>
+    <string name="security_5">Configuration.php, permissions 644 or 444</string>
+    <string name="security_6">Remove comments from extensions</string>
+    <string name="security_7">Change /tmp and /log folders path</string>
+    <string name="security_8">Borra cualquier extensión innecesaria</string>
+    <string name="security_9">Borra cualquier extensión innecesaria</string>
+    <string name="security_10">Borra cualquier extensión innecesaria</string>
+</resources>
